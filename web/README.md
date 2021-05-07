@@ -4,7 +4,7 @@ This roadmap is an introduction to the front-end development of web. It is aimed
 
 This section covers the basics of [**front-end developer roadmap**](hhttps://roadmap.sh/frontend). It is also recommended to follow with the [roadmap resource](https://roadmap.sh/frontend/resources)
 
-![](https://i.imgur.com/vq4ljVu.png)
+![](frontend_roadmap.jpg)
 
 ## HTML and CSS
 

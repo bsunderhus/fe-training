@@ -2,9 +2,6 @@
 
 This training is inspired on [Frontend Roadmap](https://roadmap.sh/roadmaps/frontend.png)
 
-[![](https://roadmap.sh/roadmaps/frontend.png)](https://roadmap.sh/frontend)
-
-
 ## Content
 
 - [ ] [Web](/web)
